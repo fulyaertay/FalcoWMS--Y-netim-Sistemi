@@ -13,16 +13,18 @@ NETWORK SYSTEM - Bilişim Teknolojileri Danışmanlık Ltd. Şti, Ltd. şirketi 
 FalcoWMS, özellikle orta ve büyük ölçekli şirketler ile proje bazlı çalışan organizasyonlar için idealdir. Bu işletmeler, personel yönetimi, görev takibi ve ürün taleplerini optimize etmek isteyen ve çalışanlarının konum bazlı hareketlerini izlemek isteyen firmalardır.
 
 # Gelecek Planları:
+```
 Yapay Zeka Destekli Veri Analizi: ChatGPT modeli ile verilerin yorumlanması ve raporlama süreçlerinin iyileştirilmesi.
 Mobil Uygulama Geliştirme: Çalışanların hareket halindeyken de sisteme erişimini sağlayacak mobil Android/iOS taraflı mobil uygulamanın geliştirilmesi.
 Çoklu Dil Seçenekleri: Kullanıcı arayüzünde İngilizce dil seçimi ve diğer dillerin eklenmesi.
-
+```
 # Neden FalcoWMS Tercih Edilmeli?
+```
 -FalcoWMS, konum bazlı araç kullanımı,yapılan günlük işlerin takibi ve Google Maps API entegrasyonu ile anlık izleme ve detaylı raporlama sunar. 
 -Görev ve proje yönetimi özellikleri ile görev planlama, iş tanımları ve projeleri detaylı yönetme imkanı sağlar. 
 -Gelişmiş ürün talep yönetimi özellikleri ile işletmelerin tüm ihtiyaçlarına kapsamlı çözümler sunar.
 -Bildirim sistemi ile hem personel hem de yönetici tarafında anlık olarak bilgi almanızı sağlar.
-
+```
 ![image](https://github.com/user-attachments/assets/7830caed-42ac-494d-a401-d797e04ffb38)
 ![image](https://github.com/user-attachments/assets/2052d494-e090-4e1c-8289-572fd4ee5627)
 ![image](https://github.com/user-attachments/assets/8dfc37c3-e346-4964-8847-e64a81d416c4)
