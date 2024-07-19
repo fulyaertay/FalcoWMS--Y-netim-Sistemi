@@ -26,7 +26,7 @@ Mobil Uygulama Geliştirme: Çalışanların hareket halindeyken de sisteme eri�
 -Gelişmiş ürün talep yönetimi özellikleri ile işletmelerin tüm ihtiyaçlarına kapsamlı çözümler sunar.
 -Bildirim sistemi ile hem personel hem de yönetici tarafında anlık olarak bilgi almanızı sağlar.
 ```
-![image](https://github.com/user-attachments/assets/7830caed-42ac-494d-a401-d797e04ffb38)
+![image](https://github.com/user-attachments/assets/678b5016-4a16-4dc5-b4f1-79f6f9c426c4)
 ![image](https://github.com/user-attachments/assets/2052d494-e090-4e1c-8289-572fd4ee5627)
 ![image](https://github.com/user-attachments/assets/8dfc37c3-e346-4964-8847-e64a81d416c4)
 ![image](https://github.com/user-attachments/assets/097777ea-498a-47f4-855f-dd64fb0eb1bf)
