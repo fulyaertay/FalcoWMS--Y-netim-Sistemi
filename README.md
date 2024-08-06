@@ -8,6 +8,7 @@ NETWORK SYSTEM - Bilişim Teknolojileri Danışmanlık Ltd. Şti, Ltd. şirketi 
 -Node JS
 -MUI Components
 -Google Maps API
+-JavaScript GeoLocation API
 -MySQL veritabanı
 ```
 # Hedef Kitle?
